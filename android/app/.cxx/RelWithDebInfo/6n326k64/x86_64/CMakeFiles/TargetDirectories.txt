@@ -1,0 +1,2 @@
+/Users/thrishika/Documents/flutter workspace/flutter_shopping_app/android/app/.cxx/RelWithDebInfo/6n326k64/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/thrishika/Documents/flutter workspace/flutter_shopping_app/android/app/.cxx/RelWithDebInfo/6n326k64/x86_64/CMakeFiles/edit_cache.dir
